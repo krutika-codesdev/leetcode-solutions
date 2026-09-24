@@ -9,6 +9,7 @@
 | 24/09/2026 | Merge Two Sorted Lists | Linked Lists | Easy | ✅ Solved | 25 min |
 | 24/09/2026 | Best Time to Buy and Sell Stock | Arrays & Strings | Easy | ✅ Solved | 25 min |
 | 24/09/2026 | Move Zeroes | Basic Algorithms | Easy | ✅ Solved | 20 min |
+| 24/09/2026 | Reverse Linked List | Linked Lists | Easy | ✅ Solved | 25 min |
 
 ## Notes
 
