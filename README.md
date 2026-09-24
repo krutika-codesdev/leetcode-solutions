@@ -1,16 +1,22 @@
 # LeetCode Solutions
 
-**Name:** Krutika P Mohanty  
+**Name:** Krutika P Mohanty
+
 **Roll Number:** R25EQ036
-**Course:** Portfolio Building for Engineering Students (B25GE0101)  
-**Semester:** 3rd Semester  
+
+**Course:** Portfolio Building for Engineering Students (B25GE0101)
+
+**Semester:** 3rd Semester
+
 **Activity:** Activity 4 – LeetCode Practice & Portfolio Integration
 
 ## Description
 
 Personal LeetCode practice log — part of B25GE0101 portfolio.
 
-This repository contains locally tested and documented solutions to selected LeetCode problems covering Arrays & Strings, Basic Algorithms, Stacks, and Linked Lists.
+This repository contains 8 locally tested and documented solutions to selected LeetCode problems covering Arrays & Strings, Basic Algorithms, Stacks, and Linked Lists.
+
+All solutions were tested locally before submission, documented with their approach and complexity, and accompanied by Accepted-result screenshots.
 
 ## Table of Contents
 
@@ -24,9 +30,9 @@ This repository contains locally tested and documented solutions to selected Lee
 
 | Topic | Problems |
 |---|---:|
-| Arrays & Strings | 2 |
+| Arrays & Strings | 3 |
 | Basic Algorithms | 2 |
-| Stacks | 2 |
+| Stacks | 1 |
 | Linked Lists | 2 |
 | **Total** | **8** |
 
