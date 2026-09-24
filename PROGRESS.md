@@ -6,6 +6,7 @@
 | 24/09/2026 | Valid Anagram | Arrays & Strings | Easy | ✅ Solved | 25 min |
 | 24/09/2026 | Binary Search | Basic Algorithms | Easy | ✅ Solved | 20 min |
 | 24/09/2026 | Valid Parentheses | Stacks | Easy | ✅ Solved | 25 min |
+| 24/09/2026 | Merge Two Sorted Lists | Linked Lists | Easy | ✅ Solved | 25 min |
 
 ## Notes
 
